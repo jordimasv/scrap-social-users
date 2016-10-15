@@ -1,6 +1,14 @@
 # scrap-social-users
 PHP class for scrapping social users from a url
 
+##Social Sites
+- Facebook
+- Twitter
+- YouTube
+- Instagram
+- Pinterest
+- Flickr
+
 ##Installation
 Include the class in your php script
 ```php
