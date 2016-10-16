@@ -8,6 +8,8 @@ PHP class for scrapping social users from a url
 - Instagram
 - Pinterest
 - Flickr
+- Google+
+- Linkedin
 
 ##Installation
 Include the class in your php script
