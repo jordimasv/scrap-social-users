@@ -3,8 +3,8 @@ require 'class.scrap.social.users.php';
 
 $urls = array(
     'http://www.hotelesglobales.com',
-    'http://www.riu.com',
-    'http://www.iberostar.com'
+    'http://www.iberostar.com',
+    'http://www.proturhotels.com'
 );
 
 #Colum Sizes
